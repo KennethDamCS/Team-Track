@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/teamtrack-server.iml" filepath="$PROJECT_DIR$/.idea/teamtrack-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/teamtrackserver/teamtrackserver.iml" filepath="$PROJECT_DIR$/teamtrackserver/teamtrackserver.iml" />
     </modules>
   </component>
 </project>
