@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdba76d0-b773-418c-a69e-d18108ee8ed9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teamtrackserver/src/main/java/kennethdamcs/teamtrackserver/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamtrackserver/src/main/java/kennethdamcs/teamtrackserver/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamtrackserver/src/main/java/kennethdamcs/teamtrackserver/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teamtrackserver/src/main/java/kennethdamcs/teamtrackserver/repository/EmployeeRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teamtrackserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/teamtrackserver/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bdba76d0-b773-418c-a69e-d18108ee8ed9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +96,7 @@
       <workItem from="1704853304501" duration="89000" />
       <workItem from="1704853400250" duration="1248000" />
       <workItem from="1704855425955" duration="50000" />
-      <workItem from="1704855482663" duration="1588000" />
+      <workItem from="1704855482663" duration="1846000" />
     </task>
     <servers />
   </component>
